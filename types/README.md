@@ -9,13 +9,12 @@
 - List
 - Any
 - OneOf
-- Color
+- Enum
 - Date
-- Enumerated
 
-## Complex
-- Font
-- Unit
+## Complex (made from objects)
+- Color (r, g, b, a)
+- Unit (value, class, unit)
 - Range (min, max)
 - Point2d (x, y)
 - Point3d (x, y, z)
@@ -24,3 +23,7 @@
 - Rect3 (x, y, z, w, h, d)
 - Bounds2 (minX, maxX, minY, maxY)
 - Bounds3 (minX, maxX, minY, maxY, minZ, maxZ)
+- Quaternion (x, y, z, angle)
+
+## Other
+- Font
