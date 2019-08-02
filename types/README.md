@@ -3,11 +3,12 @@
 ## Primitive
 - Number
 - Text
-- List
 - Boolean
+- Null
+- Object
+- List
 - Any
 - OneOf
-- Null
 - Color
 - Date
 - Enumerated
