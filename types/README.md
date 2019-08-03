@@ -7,6 +7,7 @@
 - Null
 - Object
 - List
+- File
 - Any
 - OneOf
 - Enum
