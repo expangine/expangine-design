@@ -57,3 +57,5 @@
   - `c.length` returns length of c
   - `c.item` synonomous to `c`
   - `c.item.d` returns list of d with type List<Text>
+- Each runtime could extend on the type options.
+- Each function could also add to the scope.
